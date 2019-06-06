@@ -1,3 +1,11 @@
+1. add 3D scatter plot;
+2. add 3D line plot
+
+
+
+
+
+
 matplotlib-cpp
 ==============
 
